@@ -1,4 +1,4 @@
-#Codice di condotta
+# Codice di condotta
 
 **Partecipazione**
 - Riparare le build danneggiate del mio team è la mia massima priorità.
