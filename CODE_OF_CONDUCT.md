@@ -8,7 +8,6 @@
 - Fornirò aiuto quando mi verrà chiesto.
 - Sarò onesto in ogni momento.
 - Se non credo che qualcosa sia possibile lo dirò senza esitazione.
-
 **Scrittura codice**
 - Mi esprimerò attraverso il codice.
 - Aggiungerò commenti al codice solo se non sono riuscito a essere chiaro attraverso il codice.
@@ -19,7 +18,7 @@
 - Userò un linguaggio non offensivo.
 - Sarò professionale e tratterò tutti i membri del team con rispetto.
 - Sarò aperto a ricevere feedback quando altri revisioneranno il mio lavoro.
-- Mi impegnerò a completare i compiti assegnati entro i tempi previsti.
-Prova per capire quando va a capo  
+- Mi impegnerò a completare i compiti assegnati entro i tempi previsti.  
+**Prova** per capire quando va a capo  
 sono andato a capo con due spazi.
 sono andato a capo con uno spazio.
