@@ -1,5 +1,4 @@
 # Codice di condotta
-
 **Partecipazione**
 - Riparare le build danneggiate del mio team è la mia massima priorità.
 - Partecipare alle revisioni del codice del mio team è la mia seconda massima priorità.
