@@ -20,5 +20,6 @@
 - Sarò professionale e tratterò tutti i membri del team con rispetto.
 - Sarò aperto a ricevere feedback quando altri revisioneranno il mio lavoro.
 - Mi impegnerò a completare i compiti assegnati entro i tempi previsti.
-
-
+Prova per capire quando va a capo  
+sono andato a capo con due spazi.
+sono andato a capo con uno spazio.
