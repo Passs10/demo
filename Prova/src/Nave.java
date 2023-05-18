@@ -36,8 +36,4 @@ public class Nave {
         this.celle = celle;
     }
 
-    public Cella[] getCella() {
-        return celle;
-    }
-
 }
