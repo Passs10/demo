@@ -42,12 +42,4 @@ public class Cella {
         this.nave = nave;
     }
 
-    public void setColpita() {
-        colpita = true;
-    }
-
-    public void setOccupata() {
-        occupata = true;
-    }
-
 }
