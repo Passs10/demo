@@ -5,11 +5,11 @@
 1. Introduzione
 2. Modello di dominio
 3. Requisiti specifici
-  - Requisiti funzionali
-  - Requisiti non funzionali
+   - Requisiti funzionali
+   - Requisiti non funzionali
 7. Manuale utente
 9. Analisi retrospettiva
-  - Sprint 0
+   - Sprint 0
 
 ## Introduzione
 
