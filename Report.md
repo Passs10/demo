@@ -2,15 +2,14 @@
 
 ### Sezioni
 
-1. Introduzione
-2. Modello di dominio
-3. Requisiti specifici
-   - Requisiti funzionali
-   - Requisiti non funzionali
-4. 
-7. Manuale utente
-9. Analisi retrospettiva
-   - Sprint 0
+- Introduzione
+- Modello di dominio
+- Requisiti specifici
+  - Requisiti funzionali
+  - Requisiti non funzionali
+- Manuale utente
+- Analisi retrospettiva
+  - Sprint 0
 
 ## Introduzione
 
