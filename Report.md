@@ -79,10 +79,10 @@ l’applicazione risponde visualizzando il livello di gioco e il numero massimo 
 Al comando /mostranavi  
 l’applicazione risponde visualizzando, per ogni tipo di nave, la dimensione in quadrati e il numero di esemplari da affondare:
 
-- Cacciatorpediniere 	⊠⊠         esemplari: 4
--	Incrociatore 		    ⊠⊠⊠       esemplari: 3
--	Corazzata 		      ⊠⊠⊠⊠ 	   esemplari: 2
--	Portaerei  		      ⊠⊠⊠⊠⊠ 	esemplari: 1
+- Cacciatorpediniere  ⊠⊠         esemplari: 4
+-	Incrociatore        ⊠⊠⊠       esemplari: 3
+-	Corazzata           ⊠⊠⊠⊠     esemplari: 2
+-	Portaerei           ⊠⊠⊠⊠⊠   esemplari: 1
 
 **Come giocatore voglio iniziare una nuova partita**  
 **Criteri di accettazione**  
