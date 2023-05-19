@@ -32,6 +32,7 @@ Il gioco della Battaglia Navale include diversi componenti fondamentali, tra cui
 ## Modello di dominio
 
 **Modello concettuale:**
+
 ![Modello di dominio](./img/ModelloDiDominio.png)
 
 ## Requisiti specifici
@@ -40,12 +41,9 @@ Il gioco della Battaglia Navale include diversi componenti fondamentali, tra cui
 
 **Obiettivo:** predisporre una nuova partita
 
-**Come giocatore voglio mostrare l'help con elenco comandi**
-
-**Criteri di accettazione**
-
-Al comando /help o invocando l'app con flag --help o -h
-
+**Come giocatore voglio mostrare l'help con elenco comandi**  
+**Criteri di accettazione**  
+Al comando /help o invocando l'app con flag --help o -h  
 il risultato è una descrizione concisa, che normalmente appare all'avvio del programma, seguita dalla lista di comandi disponibili, uno per riga, come da esempio successivo:
 
 - gioca
