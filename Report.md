@@ -16,13 +16,14 @@
 La presente relazione tecnica descrive il processo di sviluppo di una versione digitale del gioco della Battaglia Navale, implementata utilizzando il linguaggio di programmazione Java. L'obiettivo di questo progetto è stato quello di applicare le conoscenze acquisite nello studio di Java e delle sue librerie per creare un'esperienza interattiva e coinvolgente per i giocatori.
 
 Scopo del gioco
-
 Il gioco della Battaglia Navale è una sfida strategica in cui due giocatori si sfidano per cercare e affondare le navi nemiche sulla griglia di gioco. Lo scopo principale di questa implementazione digitale è fornire un'esperienza realistica e divertente.
 
 Architettura del gioco
+
 La Battaglia Navale è stata sviluppata seguendo un'architettura orientata agli oggetti. Sono state utilizzate diverse classi per rappresentare gli elementi chiave del gioco, come le navi, la griglia di gioco e i giocatori. L'uso di concetti come l'ereditarietà e l'interfaccia ha permesso una progettazione modulare, semplificando l'implementazione di nuove funzionalità e la gestione dei vari aspetti del gioco.
 
 Componenti principali
+
 Il gioco della Battaglia Navale include diversi componenti fondamentali, tra cui:
 
 - Griglia di gioco: Una rappresentazione 2D della mappa di gioco, che mostra la posizione delle navi e gli attacchi effettuati dal giocatore.
